@@ -124,18 +124,11 @@ footer.footer {
 
 @media only screen
 and (min-width: 375px)
-and (max-width: 413px)
+and (max-width: 414px)
 {
     .headerLogo
     {
-        max-height: 140px;
+        max-height: 150px;
         margin-left: 10px;
     }
-}
-
-@media only screen
-and (min-width: 414px)
-and (max-width: )
-{
-
 }
