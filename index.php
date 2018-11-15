@@ -127,6 +127,7 @@
                                 <label>Name</label>
                                 <input type="text" class="form-control" placeholder="Name" id="name" required="" data-validation-required-message="Please enter your name.">
                                 <p class="help-block text-danger"></p>
+                                <p> test </p>
                             </div>
                         </div>
                         <div class="row control-group">
