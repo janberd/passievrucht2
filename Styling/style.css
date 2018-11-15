@@ -112,4 +112,12 @@ footer.footer {
     margin-left: 42%;
 }
 
-
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px)
+{
+    .headerLogo
+    {
+        max-height: 120px;
+        margin-left: 30px;
+    }
+}
